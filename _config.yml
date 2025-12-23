@@ -27,6 +27,7 @@ url: "drawhere.github.io" # the base hostname & protocol for your site, e.g. htt
 twitter_username: drawhereapp
 github_username:  drawhere
 pinterest_username: drawhereapp
+offical_url: https://drawhere.app
 
 # Build settings
 theme: minima
